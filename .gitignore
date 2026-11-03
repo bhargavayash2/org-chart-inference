@@ -1,0 +1,33 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Test artifacts
+.pytest_cache/
+.coverage
+
+# Generated data
+data/raw/
+data/processed/
+data/ground_truth/
+
+# Temporary database files
+*.duckdb
+*.db
+
+# Logs
+*.log

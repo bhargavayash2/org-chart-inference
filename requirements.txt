@@ -1,0 +1,11 @@
+pandas
+numpy
+faker
+duckdb
+pyarrow
+networkx
+rapidfuzz
+streamlit
+plotly
+pytest
+scikit-learn
