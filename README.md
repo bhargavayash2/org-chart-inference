@@ -32,7 +32,8 @@ The platform:
 | Ground-truth relationships | 152,394 |
 | Inferred relationships | 146,478 |
 | Employees without inferred managers | 6,416 |
-| Assignment coverage | 95.80% |
+| Assignment coverage (inferred relationships / ground-truth relationships) | 96.12% |
+| Employee-level assignment ratio (inferred relationships / total employees) | 95.80% |
 
 **Experimental optimizer performance**
 
@@ -183,7 +184,7 @@ org-chart-inference/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/bhargavayash2/org-chart-inference.git
 cd org-chart-inference
 ```
 
